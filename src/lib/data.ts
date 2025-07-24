@@ -1,3 +1,4 @@
+import asuranked1 from "/asuranked-1.gif";
 import demonSlayer1 from "/demon-slayer-1.gif";
 import demonSlayer2 from "/demon-slayer-2.gif";
 import demonSlayer3 from "/demon-slayer-3.gif";
@@ -64,7 +65,7 @@ export const data: Record<string, AnimeSceneEntry[]> = {
   ],
   attackOnTitan: [
     {
-      src: attackOnTitan1,
+      src: asuranked1,
       offsetX: -420,
       offsetY: -110,
       rotate: -5,
